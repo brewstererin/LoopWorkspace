@@ -1,6 +1,5 @@
 name: 4. Build Loop
 run-name: Build Loop ${{ github.ref_name }}
-run: "sudo gem install fastlane"
 on:
   workflow_dispatch:
   
